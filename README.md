@@ -6,7 +6,7 @@
 
 🧠 I'm currently learning MERN Stack
 
-📫 To reach me mail @ `maheaswerd@gmail.com`
+📫 To reach me shoot a mail at `maheaswerd@gmail.com`
 
 ## Mern Stack Developer
 
