@@ -24,6 +24,6 @@ A Self-taught MERN stack developer, driven by a passion for coding and building 
 
 ## Projects
 
-[`Halo-doc`](https://halo-doc.rigx.ml)
+[`Halo-doc`](https://github.com/maheswar-dileep/Halo-Doc-Server)
 <br>
 [`RIG-X-`](https://github.com/maheswar-dileep/RIG-X-)
