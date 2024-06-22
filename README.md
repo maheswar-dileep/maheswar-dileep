@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=300&color=00E19BED&width=435&lines=Maheswar+Dileep+;Mern+Stack+Developer;Geeky)](https://github.com/maheswar-dileep)
 
-👩‍💻 I'm currently working As Trainee
+👩‍💻 I'm currently working As Software Developer
 
-🧠 I'm currently learning MERN Stack
+🧠 I'm currently wroking in Mern Stack !
 
 📫 To reach me shoot a mail at `maheaswerd@gmail.com`
 
